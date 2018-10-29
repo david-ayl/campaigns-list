@@ -1,0 +1,24 @@
+[
+  {
+    "name":"Samsung",
+    "geo":"apac",
+    "type":"video",
+    "iab":"hightech",
+    "ids":{
+      "campaign":"232795a7fefa7eed4cd50db2727d9ff3",
+      "track":"",
+      "creative":""
+    }
+  },
+  {
+    "name":"Listerine",
+    "geo":"apac",
+    "type":"video",
+    "iab":"man",
+    "ids":{
+      "campaign":"b38727cedeafa0a209a26d849f68077d",
+      "track":"",
+      "creative":""
+    }
+  }
+]
